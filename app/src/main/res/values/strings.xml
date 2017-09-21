@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">OC Music Events</string>
+
+    <string name="go_back_button">Back to List</string>
 </resources>
