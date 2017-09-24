@@ -23,7 +23,7 @@ import java.io.InputStream;
  * An AssetManager is utilized to provide links to the appropriate images in the assets folder.
  *
  * When the user wants to return to the list, a button is provided that calls goBackToList,
- * which cleans up the memory and returns to the prior activity, EventListActivity.
+ * which cleans up the memory and returns to the prior activity, EventsListActivity.
  */
 public class EventDetailsActivity extends AppCompatActivity {
 
